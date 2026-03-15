@@ -55,9 +55,9 @@ Prometheus + Grafana • Azure Monitor • Log Analytics • Application Insight
 
 ---
 
-### 📌 Recent Enterprise Project – Hybrid Cloud 5G Network Monitoring Platform (Germany Telecom) 
+### 📌 Recent Enterprise Project – Hybrid Cloud 5G Network Monitoring Platform (Germany Telecom) ##
 
-## Currently leading the DevOps transformation for a major German telecom operator.  
+Currently leading the DevOps transformation for a major German telecom operator.  
 Migrating their legacy 5G network monitoring system from fully on-premises (Ericsson hardware) to a secure **hybrid cloud architecture** using Azure Kubernetes Service (AKS).
 
 **Platform Overview**  
