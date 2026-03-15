@@ -1,10 +1,19 @@
-# skandtripathi
+# SkandTripathi
 DevOps Engineer portfolio showcasing automation, CI/CD, cloud, and infrastructure projects.
 
-Hi 👋 I'm **Skand**
+<div align="center">
+  <img src="https://img.shields.io/badge/DevSecOps-Architect-0A66C2?style=for-the-badge&logo=azuredevops&logoColor=white" alt="DevSecOps">
+  <img src="https://img.shields.io/badge/Kubernetes-Expert-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Terraform-Expert-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/Azure-Cloud-Native-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
+</div>
 
-🚀 Senior DevOps & Platform Engineer | Cloud-Native Architect | DevSecOps Specialist
-Building production-grade, secure, scalable and cost-optimised cloud platforms with Kubernetes, Terraform & Azure at its core.
+<h1 align="center">Hi 👋 I'm Skand</h1>
+
+<p align="center">
+  <strong>🚀 Senior DevOps & Platform Engineer | Cloud-Native Architect | DevSecOps Specialist</strong><br>
+  Building production-grade, secure, scalable and cost-optimised cloud platforms with Kubernetes, Terraform & Azure at its core.
+</p>
 
 ----
 
