@@ -78,7 +78,7 @@ Migrating their legacy 5G network monitoring system from fully on-premises (Eric
 
 ---
 
-### 🧱 Featured Work (Pinned Repositories)
+<h2><u>🧱 Featured Work (Pinned Repositories)</u></h2>
 
 **🛠️ Terraform Azure Platform Foundation**  
 Enterprise-grade modular Terraform codebase for landing zones, networking, AKS & shared services.  
