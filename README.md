@@ -1,7 +1,7 @@
 # skandtripathi
 DevOps Engineer portfolio showcasing automation, CI/CD, cloud, and infrastructure projects.
 
-Hi 👋 I'm Skand
+Hi 👋 I'm **Skand**
 
 🚀 Senior DevOps & Platform Engineer | Cloud-Native Architect | DevSecOps Specialist
 Building production-grade, secure, scalable and cost-optimised cloud platforms with Kubernetes, Terraform & Azure at its core.
@@ -20,23 +20,29 @@ Building production-grade, secure, scalable and cost-optimised cloud platforms w
 
 ### 🔧 Core Skills & Technologies
 
-**☁️ Cloud & Platform**  
-Azure (AKS • Application Gateway • Private Endpoints • Key Vault • VNet • WAF • Monitor) • Hybrid architectures • Secure networking
+<h3>☁️ Cloud & Platform</h3>
+Azure (AKS • Application Gateway • Private Endpoints • Key Vault • VNet • WAF • Monitor) • Hybrid architectures • Secure networking  
+<span style="font-size:1.1em;">• Enterprise identity & access with Azure AD, RBAC and Conditional Access policies</span>
 
-**🏗️ Infrastructure as Code**  
-Terraform (modular monorepo, remote backends, multi-env, state isolation) • Azure Landing Zones • Environment separation (Dev/UAT/Prod)
+<h3>🏗️ Infrastructure as Code</h3>
+Terraform (modular monorepo, remote backends, multi-env, state isolation) • Azure Landing Zones • Environment separation (Dev/UAT/Prod)  
+<span style="font-size:1.1em;">• Automated plan/apply workflows with drift detection and approval gates</span>
 
-**🐳 Containerization**  
-Multi-stage Dockerfiles • Azure Container Registry • Vulnerability scanning • Image optimisation
+<h3>🐳 Containerization</h3>
+Multi-stage Dockerfiles • Azure Container Registry • Vulnerability scanning • Image optimisation  
+<span style="font-size:1.1em;">• Trivy & Grype integrated scanning in every CI build for zero vulnerable images</span>
 
-**☸️ Kubernetes & Cloud-Native**  
-AKS cluster management • Helm charts • Ingress • Autoscaling • Blue-Green & Canary deployments • Hybrid K8s operations
+<h3>☸️ Kubernetes & Cloud-Native</h3>
+AKS cluster management • Helm charts • Ingress • Autoscaling • Blue-Green & Canary deployments • Hybrid K8s operations  
+<span style="font-size:1.1em;">• Advanced networking with Azure CNI, Network Policies and service mesh basics</span>
 
-**🔁 CI/CD & DevSecOps**  
-Azure DevOps Pipelines • GitHub Actions • PR-based workflows • SAST/SCA/IaC scanning (SonarQube, tfsec, Checkov, Trivy) • Secret scanning • Policy as Code
+<h3>🔁 CI/CD & DevSecOps</h3>
+Azure DevOps Pipelines • GitHub Actions • PR-based workflows • SAST/SCA/IaC scanning (SonarQube, tfsec, Checkov, Trivy) • Secret scanning • Policy as Code  
+<span style="font-size:1.1em;">• Compliance-as-Code using OPA Gatekeeper and automated security gates</span>
 
-**📊 Observability**  
-Prometheus + Grafana • Azure Monitor • Log Analytics • Application Insights • Proactive alerting & automated rollback
+<h3>📊 Observability</h3>
+Prometheus + Grafana • Azure Monitor • Log Analytics • Application Insights • Proactive alerting & automated rollback  
+<span style="font-size:1.1em;">• Custom SLO dashboards and cost-optimised alerting for hybrid environments</span>
 
 ---
 
@@ -97,7 +103,6 @@ React + Python microservices → Docker → AKS with Helm & GitOps-ready setup.
 ![Skand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Skandy01&show_icons=true&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Skandy01&layout=compact&theme=radical&hide_border=true)
 
-*(Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username — stats live ho jayenge)*
 
 ---
 
