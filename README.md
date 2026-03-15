@@ -5,7 +5,7 @@ DevOps Engineer portfolio showcasing automation, CI/CD, cloud, and infrastructur
   <img src="https://img.shields.io/badge/DevSecOps-Architect-0A66C2?style=for-the-badge&logo=azuredevops&logoColor=white" alt="DevSecOps">
   <img src="https://img.shields.io/badge/Kubernetes-Expert-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
   <img src="https://img.shields.io/badge/Terraform-Expert-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
-  <img src="https://img.shields.io/badge/Azure-Cloud-Native-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
 </div>
 
 <h1 align="center">Hi 👋 I'm Skand</h1>
